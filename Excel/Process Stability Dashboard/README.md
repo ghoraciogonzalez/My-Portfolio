@@ -12,17 +12,17 @@ This project aims to evaluate the stability of a bbatch measurement process usin
 # Analysis Methodology
 The analysis was carried out in several stages:
 
-  # Control Charts
+  *Control Charts*
   Individual (I) and Moving Range (MR) charts were implemented to evaluate process stability across batches.
 
-  # Normality Evaluation
+  *Normality Evaluation*
   1. **Histogram**: Used to visualize the shape of the distribution.
   2. **Q-Q Plot**: Compared the dataset against a theoretical normal distribution.
   3. **Measures of Central Tendency**: Mean, median, and mode were considered as preliminary indicators of distribution symmetry.
 
 **NOTE**: This is a quick and preliminary analysis. More in-depth studies are required, including formal normality tests (e.g., Kolmogorov-Smirnov or Anderson-Darling) and process capability studies (Cp, Cpk, Ppk).
 
-  # Interactive Dashboard
+  *Interactive Dashboard*
   1. A selection bar (using Excel Developer tools) allows users to choose the batch for analysis.
   2. Each batch consists of 50 measurements.
   3. Dynamic ranges were configured to ensure proper dashboard functionality when navigating between batches.
