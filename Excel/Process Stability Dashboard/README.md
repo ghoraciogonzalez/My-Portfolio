@@ -13,7 +13,7 @@ This project aims to evaluate the stability of a bbatch measurement process usin
 The analysis was carried out in several stages:
 
   *Control Charts*
-  Individual (I) and Moving Range (MR) charts were implemented to evaluate process stability across batches.
+  1. Individual (I) and Moving Range (MR) charts were implemented to evaluate process stability across batches.
 
   *Normality Evaluation*
   1. **Histogram**: Used to visualize the shape of the distribution.
