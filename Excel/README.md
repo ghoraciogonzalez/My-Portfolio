@@ -1,4 +1,4 @@
-This folder contains a collection of projects developed in Microsoft Excel and focused on data analysis. 
+**This folder contains a collection of projects developed in Microsoft Excel and focused on data analysis**
 
 # Content
 
