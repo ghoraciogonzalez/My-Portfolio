@@ -33,5 +33,5 @@ VBA code snippets were included to enhance user interaction:
   2. **Controlled Access**: From the dashboard, a macro-enabled button temporarily grants access to the hidden data sheet to add new measurements.
 
 # Technologies Used
-  1. Microsoft Excel: Dashboards, formulas, and charts.
-  2. VBA (Visual Basic for Applications): Process automation.
+  1. **Microsoft Excel**: Dashboards, formulas, and charts.
+  2. **VBA (Visual Basic for Applications)**: Process automation.
